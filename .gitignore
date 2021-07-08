@@ -1,0 +1,10 @@
+.idea/
+node_modules
+package-lock.json
+jest_html_reporters.html
+src/pages/*.js
+tests/*.js
+utils/*.js
+tests/cookies.json
+src/.DS_Store
+jest.setup.js

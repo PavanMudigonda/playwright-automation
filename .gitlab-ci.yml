@@ -1,0 +1,7 @@
+image: node:latest
+
+test_web:
+  image: mcr.microsoft.com/playwright:bionic
+  script:
+    - npm install
+    - npm test
